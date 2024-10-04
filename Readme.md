@@ -36,16 +36,16 @@ The model was trained using a cosine learning rate schedule with the following c
 During each evaluation, the model’s predictions were validated using unseen images in a domain different from the training data.
 
 ## Results
-# 2. Compare results
+## 2. Compare results
 
-2.1 Before apply Car datasets
+### 2.1 Before apply Car datasets
 Train
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/65d805867c0947fdd59fd714/SoY0i2m-22eTPJmhwybTL.png)
 
 Prediction
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/65d805867c0947fdd59fd714/9T2diUTOWeKFQiYef9gR4.png)
 
-2.2 After applying Car Dataset
+### 2.2 After applying Car Dataset
 Train
 ![image](https://github.com/user-attachments/assets/de9b604c-56b2-447d-ae7c-330c94a2b821)
 
