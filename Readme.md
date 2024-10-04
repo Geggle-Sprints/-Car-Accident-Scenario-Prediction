@@ -11,7 +11,7 @@ Our next step is to train the model on insurance companies' accident response gu
 https://huggingface.co/Geggle-Sprints/Car-Accident-Scenario-Prediction
 - GitHub
 https://github.com/orgs/Geggle-Sprints/teams/gemma-sprint/repositories
-Team Geggle Sprints, supported by Google Machine Learning Bootcamp 2024
+<br><br> Team Geggle Sprints, supported by Google Machine Learning Bootcamp 2024
 #GemmaSprint
 
 # 2. Compare results
@@ -25,3 +25,9 @@ Prediction
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/65d805867c0947fdd59fd714/9T2diUTOWeKFQiYef9gR4.png)
 
 2.2 After applying Car Dataset
+Train
+![image](https://github.com/user-attachments/assets/de9b604c-56b2-447d-ae7c-330c94a2b821)
+
+Prediction
+![image](https://github.com/user-attachments/assets/8f294617-d2af-44c4-82e3-e84e4b1e07f0)
+
